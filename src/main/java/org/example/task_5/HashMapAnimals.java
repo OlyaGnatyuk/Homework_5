@@ -3,7 +3,7 @@ package org.example.task_5;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TaskNumberFive {
+public class HashMapAnimals {
     public static void main(String[] args) {
         Map<String, Integer> cats = new HashMap<>();
         cats.put("Марсик", 3);

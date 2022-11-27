@@ -3,7 +3,7 @@ package org.example.task_1;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class TaskNumberOne {
+public class ArrayListInteger {
     public static void main(String[] args) {
         ArrayList<Integer> numbers = new ArrayList<>();
         numbers.add(5);
